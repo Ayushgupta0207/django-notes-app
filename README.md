@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Simple Notes App 
+=======
+# Simple Notes App
+>>>>>>> b07e0cd (update app)
 This is a simple notes app built with React and Django.
 
 ## Requirements
